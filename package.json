@@ -3,8 +3,7 @@
     "version": "0.0.0",
     "private": true,
     "scripts": {
-        "gtest": "mocha  -t 200000  gtest.js",
-        "gtest2": "mocha -t 200000  gtest2.js"
+        "rtest": "mocha  -t 2000000000  fTest.js"
     },
     "dependencies": {
         "chromedriver": "^74.0.0",
